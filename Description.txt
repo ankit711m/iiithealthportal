@@ -1,0 +1,28 @@
+Project Name: -    IIIT Health Portal
+Team :-                    Ankit Mishra - 201505523
+	                     Kuldeep Kumar-201505524
+Brief Description:-
+A portal for IIIT Health Care Center . This portal would help students , staffs etc, of the campus to get medical assistance.
+Features:-
+There will be 3 ways of accessing the potal :
+1> Admin
+2> Doctor
+3> Patients
+Admin:
+Adding /removing new Doctors
+Updating Doctor’s schedule.
+Updating upcoming events.
+Handling user’s email.
+ Doctor:
+Generate Patient’s Report with patient detail and prescription.
+Request admin through email for any change in next schedule.
+  Patient:
+View the doctor’s schedule.
+Make an appointment.
+Request and cancel for reschedule.
+View prescription history.
+Email to admin for suggestion/feedback.
+
+   Extra Features:-
+Separate Registration for Blood Donner Club.
+Displaying upcoming events , health related tips on the main page.
